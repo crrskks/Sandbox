@@ -22,7 +22,7 @@ p {
 }
 
 
-.test p {
+#home p {
 
 	font-weight: bold;
 	position: absolute;
@@ -45,4 +45,110 @@ p {
 	left: 4.8pt;
 
 }
+
+#about {
+
+	position: absolute;
+	left: 70pt;
+	width: 41pt;
+	height: 2.2em;
+	transition-duration: .5s;
+}
+
+
+#about p {
+
+	font-weight: bold;
+	position: absolute;
+	color: white;
+	left: 3pt;
+	top: -5pt;
+}
+
+
+#about:hover {
+
+	background-color: #A9A9A9;
+
+}
+
+#services {
+
+	position: absolute;
+	left: 120pt;
+	width:55pt;
+	height: 2.2em;
+	transition-duration: .5s;
+}
+
+
+#services p {
+
+	font-weight: bold;
+	position: absolute;
+	color: white;
+	left: 3pt;
+	top: -5pt;
+}
+
+
+#services:hover {
+
+	background-color: #A9A9A9;
+
+}
+
+#careers {
+
+	position: absolute;
+	left: 185pt;
+	width:52pt;
+	height: 2.2em;
+	transition-duration: .5s;
+}
+
+
+#careers p {
+
+	font-weight: bold;
+	position: absolute;
+	color: white;
+	left: 3pt;
+	top: -5pt;
+}
+
+
+#careers:hover {
+
+	background-color: #A9A9A9;
+
+}
+
+#contact {
+
+	position: absolute;
+	left: 248pt;
+	width:52pt;
+	height: 2.2em;
+	transition-duration: .5s;
+}
+
+
+#contact p {
+
+	font-weight: bold;
+	position: absolute;
+	color: white;
+	left: 3pt;
+	top: -5pt;
+}
+
+
+#contact:hover {
+
+	background-color: #A9A9A9;
+
+}
+
+
 
